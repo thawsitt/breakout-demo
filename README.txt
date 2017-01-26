@@ -1,1 +1,0 @@
-Hello! Thank you for taking the time to look at my BrickBreaker program :) Just double click on BrickBreaker.jar to run. Make sure that acm.jar is in the same directory as BrickBreaker.jar. Have fun!
